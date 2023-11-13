@@ -1,6 +1,6 @@
 # Olá, eu sou Wasse Lucas 😎
 - 📚💻 Sou graduando de Análise e Desenvolvimento Sistemas atualmente estou cursando o 4° semestre.
-- 💻 📚 Desenvolvedor Web Full Stack | HTML | CSS | React | Angular | Java | Spring | Dcoker |MySql
+- 💻 📚 Desenvolvedor Web Full Stack | HTML | CSS | React | Angular | Java | Spring | Docker |MySql
 
 
 <div style="display: inline_block" ><br>
